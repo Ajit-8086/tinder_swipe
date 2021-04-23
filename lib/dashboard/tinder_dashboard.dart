@@ -18,6 +18,13 @@ class _HomePageState extends State<HomePage>
     "assets/model4.jpg",
     "assets/model5.jpg",
     "assets/model6.jpg",
+    "assets/model7.jpg",
+    "assets/model1.jpeg",
+    "assets/model2.png",
+    "assets/model3.png",
+    "assets/model4.jpg",
+    "assets/model5.jpg",
+    "assets/model6.jpg",
     "assets/model7.jpg"
   ];
 
